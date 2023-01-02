@@ -1,0 +1,17 @@
+@import url('./reset.min.css');
+@import url('./variables.css');
+@import url('./product-card.css');
+
+html {
+  background-color: var(--primary-cream);
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 360px;
+  padding: 26px 16px;
+}
