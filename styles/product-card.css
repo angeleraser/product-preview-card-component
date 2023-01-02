@@ -48,6 +48,7 @@
 .product-name {
 	text-transform: uppercase;
 	letter-spacing: 4px;
+	order: -1;
 }
 
 .product-title {
