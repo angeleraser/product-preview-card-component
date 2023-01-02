@@ -66,7 +66,7 @@
 	display: flex;
 	align-items: center;
 	color: var(--primary-dark-cyan);
-	font-size: 3em;
+	font-size: 2.5em;
 }
 
 .product-price-discount {
